@@ -22,6 +22,13 @@
 <br>
 
 ---
+<br>
+
+<!-- Divider animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+---
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> **Skills**
 
@@ -37,6 +44,13 @@
 ![Power Query](https://img.shields.io/badge/PowerQuery-4479A1?style=for-the-badge&logo=powerbi&logoColor=white)
 
 </p>
+
+---
+<br>
+
+<!-- Divider animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
@@ -85,16 +99,30 @@
 </p>
 
 ---
+<br>
+
+<!-- Divider animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+---
 
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Miguelbj96&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 ---
+<br>
+
+<!-- Divider animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+---
 
 <div align="center">
   
-📌 *Always pushing the boundaries between data, strategy, and innovation.*
+📌 *Siempre ampliando los límites entre los datos, la estrategia y la innovación.*
 
 </div>
 
