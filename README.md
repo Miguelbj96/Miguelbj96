@@ -42,7 +42,7 @@
 
 ## 🧩 **Highlighted Projects**
 
-### 🔵 [Customer Risk Profiling in Banking Sector](https://github.com/Miguelbj96/Analisis-Clientes-Bancarios)
+### 🔵 [Customer Risk Profiling in Banking Sector](https://github.com/Miguelbj96/Customer_Risk_Profiling_in_Banking_Sector.git)
 > Procesamiento riguroso de datos bancarios para detectar perfiles de alto riesgo crediticio, creación de variables derivadas y propuesta de estrategias de ajuste de políticas de crédito.
 
 ---
