@@ -67,20 +67,6 @@
 <!-- Divider animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 📈 **GitHub Stats & Activity**
-
-<p align="center">
-<a href="https://github.com/Miguelbj96">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelbj96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-</a>
-<a href="https://github.com/Miguelbj96">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelbj96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-</a>
-</p>
-
-<br>
 
 ---
 
