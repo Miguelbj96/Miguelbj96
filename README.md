@@ -1,9 +1,9 @@
 <!-- Banner animado central -->
-<h1 align="center">Hi 👋, I'm Miguel Angel Briones Jara</h1>
+<h1 align="center">Hola 👋, me llamo Miguel Briones</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Business+Data+Analyst;Digital+Transformation+Strategist;Process+Optimization+Expert;Machine+Learning+Enthusiast;Always+learning+and+evolving...">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Business+Data+Analyst;Digital+Transformation+Strategist;Process+Optimization+Expert;Machine+Learning+Enthusiast;Always+learning+and+evolving..." alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Analista+de+Datos+de+Negocio;Estratega+de+Transformación+Digital;Experto+en+Optimización+de+Procesos;Entusiasta+del+Machine+Learning;Siempre+aprendiendo+y+evolucionando...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Analista+de+Datos+de+Negocio;Estratega+de+Transformación+Digital;Experto+en+Optimización+de+Procesos;Entusiasta+del+Machine+Learning;Siempre+aprendiendo+y+evolucionando..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 ## 🧩 **Proyectos destacados**
 
-### 🔵 [Análisis Descriptivo de Perfiles de riesgo en el sector bancario](https://github.com/Miguelbj96/Customer_Risk_Profiling_in_Banking_Sector.git)
+### 🔵 [Análisis descriptivo para redefinir políticas de crédito basadas en comportamiento de pago](https://github.com/Miguelbj96/Customer_Risk_Profiling_in_Banking_Sector.git)
 > Procesamiento riguroso de datos bancarios para detectar perfiles de alto riesgo crediticio, creación de variables derivadas y propuesta de estrategias de ajuste de políticas de crédito.
 
 ---
@@ -66,7 +66,7 @@
 
 ---
 
-### 🟡 [Dashboard sobre el uso de bicicletas (Power BI)](https://github.com/Miguelbj96/Dashboard-Bicicletas-PowerBI)
+### 🟡 [Visualizador de datos para convertir ciclistas ocasionales en miembros leales mediante estrategias data-driven​](https://github.com/Miguelbj96/Dashboard-Bicicletas-PowerBI)
 > Análisis de comportamiento de usuarios en servicios de transporte con Power BI, proponiendo estrategias data-driven para impulsar membresías y optimizar operaciones.
 
 ---
@@ -84,7 +84,7 @@
 
 ---
 
-## 🤝 **Conectate conmigo**
+## 🤝 **Conéctate conmigo**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/miguel-angel-briones-jara-4308471b7" target="_blank">
