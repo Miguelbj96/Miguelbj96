@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mi
 
 <p align="left">
 🔹 Ingeniero Industrial especializado en Business Data Analytics y Transformación Digital.<br>
@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> **Skills**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> **Habilidades**
 
 <p align="center">
 
@@ -54,24 +54,24 @@
 
 ---
 
-## 🧩 **Highlighted Projects**
+## 🧩 **Proyectos destacados**
 
-### 🔵 [Customer Risk Profiling in Banking Sector](https://github.com/Miguelbj96/Customer_Risk_Profiling_in_Banking_Sector.git)
+### 🔵 [Análisis Descriptivo de Perfiles de riesgo en el sector bancario](https://github.com/Miguelbj96/Customer_Risk_Profiling_in_Banking_Sector.git)
 > Procesamiento riguroso de datos bancarios para detectar perfiles de alto riesgo crediticio, creación de variables derivadas y propuesta de estrategias de ajuste de políticas de crédito.
 
 ---
 
-### 🟠 [Data Governance Model for Tech Company](https://github.com/Miguelbj96/Modelo-Gobernanza-Datos)
+### 🟠 [Propuesta de Modelo de Gobernanza de datos para una empresa tecnológica](https://github.com/Miguelbj96/Modelo-Gobernanza-Datos)
 > Diseño de modelo híbrido de gobernanza de datos, definiendo dominios de información críticos, estándares de calidad y roles estratégicos para optimizar decisiones de negocio.
 
 ---
 
-### 🟡 [Bicycle Usage Dashboard (Power BI)](https://github.com/Miguelbj96/Dashboard-Bicicletas-PowerBI)
+### 🟡 [Dashboard sobre el uso de bicicletas (Power BI)](https://github.com/Miguelbj96/Dashboard-Bicicletas-PowerBI)
 > Análisis de comportamiento de usuarios en servicios de transporte con Power BI, proponiendo estrategias data-driven para impulsar membresías y optimizar operaciones.
 
 ---
 
-### 🔴 [Auto Insurance Fraud Detection with Machine Learning](https://github.com/Miguelbj96/Fraude-Seguros-ML)
+### 🔴 [Detección de fraude en seguros de automóviles con aprendizaje automático](https://github.com/Miguelbj96/Fraude-Seguros-ML)
 > Desarrollo de un modelo de clasificación para priorizar reclamaciones sospechosas mediante técnicas de undersampling, ingeniería de características e interpretabilidad con SHAP.
 
 ---
@@ -84,7 +84,7 @@
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 **Conectate conmigo**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/miguel-angel-briones-jara-4308471b7" target="_blank">
@@ -97,19 +97,6 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 </p>
-
----
-<br>
-
-<!-- Divider animado -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
----
-
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Miguelbj96&theme=react-dark&hide_border=true&area=true" width="90%">
-</div>
 
 ---
 <br>
