@@ -71,7 +71,7 @@
 
 ---
 
-### 🔴 [Detección de fraude en seguros de automóviles con aprendizaje automático](https://github.com/Miguelbj96/Fraude-Seguros-ML)
+### 🔴 [Detección de fraude en seguros de automóviles con aprendizaje automático](https://github.com/Miguelbj96/Auto-Insurance-Fraud-Detection-with-Machine-Learning.git)
 > Desarrollo de un modelo de clasificación para priorizar reclamaciones sospechosas mediante técnicas de undersampling, ingeniería de características e interpretabilidad con SHAP.
 
 ---
