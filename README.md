@@ -12,11 +12,7 @@
 ## 👨‍💻 Sobre mi
 
 <p align="left">
-🔹 Ingeniero Industrial especializado en Business Data Analytics y Transformación Digital.<br>
-🔹 Desarrollo soluciones basadas en datos para optimizar operaciones, fortalecer estrategias y mejorar experiencias de cliente.<br>
-🔹 Apasionado por el uso de IA, machine learning e inteligencia de negocios en la toma de decisiones.<br>
-🔹 Finalista Datathon 2024 - impulsando la innovación basada en datos.<br>
-🔹 Siempre abierto a nuevas colaboraciones y desafíos.
+Impulso proyectos de alto impacto en entornos dinámicos, guiando equipos hacia soluciones innovadoras y estratégicas. Soy un profesional analítico, orientado a resultados y apasionado por la transformación digital y la gestión de datos. Utilizo herramientas de inteligencia de negocios para la toma de decisiones basadas en datos, desarrollando soluciones eficientes mediante la automatización y optimización de procesos. Siempre busco asumir nuevos desafíos que potencien el impacto organizacional.
 </p>
 
 <br>
