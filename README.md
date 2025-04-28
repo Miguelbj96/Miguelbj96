@@ -30,18 +30,36 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> **Habilidades**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> **Mi Stack Tecnológico**
 
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power Query](https://img.shields.io/badge/PowerQuery-4479A1?style=for-the-badge&logo=powerbi&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EA3E23?style=for-the-badge&logo=microsoft&logoColor=white)
+![Screaming Frog SEO](https://img.shields.io/badge/Screaming%20Frog%20SEO-00CC66?style=for-the-badge&logo=screamingfrog&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1565C0?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
+
+
 
 </p>
 
